@@ -1,5 +1,21 @@
 body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+	margin: 0;
+	padding: 2px;
+	font-family: sans-serif;
+	background: linear-gradient(to right, rgb(159, 235, 255), rgb(215, 134, 255));
+}
+
+.robotCard {
+	display: inline-block;
+	width: 270px;
+	height: 350px;
+	text-align: center;
+}
+
+.robotProps {
+	font-size: 0.8em;
+}
+
+#card {
+	background: rgb(255, 255, 255, 0.3);
 }

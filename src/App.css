@@ -1,0 +1,22 @@
+@font-face {
+font-family: 'SEGA LOGO FONT';
+font-style: normal;
+font-weight: normal;
+src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+}
+
+#title {
+	font-family: 'SEGA LOGO FONT';
+	font-weight: 200;
+	color:  #b3e6ff;
+	text-shadow: 1.5px 1.5px #4d4d4d;
+	font-size: 50px;
+	margin-bottom: 10px;
+}
+
+.searchBox {
+	background: #b3e6ff;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	font-size: 15px;
+}
