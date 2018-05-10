@@ -3,6 +3,7 @@ body {
 	padding: 2px;
 	font-family: sans-serif;
 	background: linear-gradient(to right, rgb(159, 235, 255), rgb(215, 134, 255));
+	background-size: auto 100%;
 }
 
 .robotCard {
